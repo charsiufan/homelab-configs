@@ -1,12 +1,11 @@
 total 16K
-drwxrwsr-x 2 root webadmins 4.0K Mar 19 07:10 .
+drwxrwsr-x 2 root webadmins 4.0K Jun  8 13:05 .
 drwxrwsr-x 9 root webadmins 4.0K Oct 23  2025 ..
 -rw-rw-r-- 1 root webadmins  546 Oct 24  2025 00-default-http.conf
 -rw-rw-r-- 1 root webadmins  150 Sep  4  2025 00-default-https.conf
 lrwxrwxrwx 1 root webadmins   47 Aug 21  2025 bennanas.bensargent.net.conf -> ../sites-available/bennanas.bensargent.net.conf
 lrwxrwxrwx 1 root webadmins   49 Sep 27  2025 bennanas.qause.me.conf -> /etc/nginx/sites-available/bennanas.qause.me.conf
 lrwxrwxrwx 1 root webadmins   45 Aug 21  2025 bennas.bensargent.net.conf -> ../sites-available/bennas.bensargent.net.conf
-lrwxrwxrwx 1 root webadmins   47 Mar 19 07:10 frank.3sltv.com.conf -> /etc/nginx/sites-available/frank.3sltv.com.conf
 lrwxrwxrwx 1 root webadmins   41 Sep  4  2025 ha.bensargent.net.conf -> ../sites-available/ha.bensargent.net.conf
 lrwxrwxrwx 1 root webadmins   46 Aug 21  2025 monitor.bensargent.net.conf -> ../sites-available/monitor.bensargent.net.conf
 lrwxrwxrwx 1 root webadmins   46 Dec 17 08:15 plex.3sltv.com.conf -> /etc/nginx/sites-available/plex.3sltv.com.conf
